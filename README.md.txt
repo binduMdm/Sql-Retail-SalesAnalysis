@@ -1,3 +1,4 @@
+![SQL Retail Sales Analysis](cover.png)
 🛒 SQL Retail Sales Analysis
 A SQL project analyzing retail customer orders, products, and revenue trends across categories, time, and geography.
 
@@ -38,4 +39,5 @@ Window Functions (RANK, aggregate metrics)
 Revenue calculations and trend analysis
 
 Query optimization and modular SQL writing
+
 
